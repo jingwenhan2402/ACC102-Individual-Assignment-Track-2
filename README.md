@@ -11,11 +11,11 @@ This project is a Python-based financial data product that uses WRDS/CRSP data t
 
 ## 1. Project Overview
 
-This project develops a Python-based data product to analyse the risk and return characteristics of selected US technology stocks using historical market data from WRDS/CRSP. The notebook is designed to move beyond a simple one-off analysis by presenting a structured, reproducible workflow that can be understood and reused by students and beginner users.
+This project is a Python-based data product that enables users to compare the risk and return profiles of selected US technology stocks using historical data from WRDS/CRSP. The product is designed to present financial information in a clear, structured, and visually accessible format, helping users understand stock behaviour through direct comparison rather than isolated analysis.
 
-The project compares major technology stocks across multiple dimensions, including price performance, cumulative returns, volatility, downside risk, correlation, and portfolio behaviour. It also includes a comparison with the broader market benchmark to provide additional context for interpreting stock performance.
+By showcasing multiple indicators side by side, including price movement, cumulative return, volatility, downside risk, correlation, and portfolio performance, the product allows users to quickly evaluate differences across stocks and identify key patterns in performance and risk. The inclusion of a market benchmark further enhances interpretation by placing individual stock results in a broader market context.
 
-The final product is intended for users who want an accessible but academically grounded stock analysis tool, especially business students learning how Python can be used for financial data extraction, cleaning, visualisation, and interpretation.
+As a user-oriented financial analysis tool, the product is especially suitable for students, beginner investors, and non-technical users who need a practical way to explore stock data. It turns raw market data into meaningful comparative insights and demonstrates how Python can support accessible financial decision-making.
 
 ---
 
