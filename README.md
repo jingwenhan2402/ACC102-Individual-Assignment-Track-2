@@ -1,4 +1,4 @@
-# ACC102-Individual-Assignment-Track-2
+# ACC102-Individual Assignment-Track2-Jingwen Han-2472808
 This project is a Python-based financial data product that uses WRDS/CRSP data to analyse the risk, return, and portfolio performance of selected US technology stocks from 2016 to 2021.
 # ACC102 Data Product: Risk and Return Analysis of US Technology Stocks
 
@@ -216,8 +216,6 @@ Although the project provides a structured and useful financial analysis workflo
 - The portfolio analysis uses equal weights rather than formal optimisation
 - Full reproducibility depends on access to WRDS
 - The notebook is designed for clarity and teaching purposes rather than professional investment modelling
-
-These limitations mean that the project should be viewed as an educational data product rather than a complete investment decision system.
 
 ---
 
